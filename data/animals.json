@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "The now extinct species 'Thylacine' was native to where?",
+      "options": {
+        "1": "Tasmania, Australia",
+        "2": "Baluchistan, Pakistan",
+        "3": "Wallachia, Romania",
+        "4": "Oregon, United States"
+      },
+      "correct": 1
+    },
+    {
+      "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+      "options": {
+        "1": "Nothing",
+        "2": "Nuts",
+        "3": "Fruit",
+        "4": "Seaweed"
+      },
+      "correct": 2
+    },
+    {
+      "question": "The dish Fugu, is made from what family of fish?",
+      "options": {
+        "1": "Bass",
+        "2": "Salmon",
+        "3": "Mackerel",
+        "4": "Pufferfish"
+      },
+      "correct": 4
+    },
+    {
+      "question": "What is the fastest animal?",
+      "options": {
+        "1": "Golden Eagle",
+        "2": "Cheetah",
+        "3": "Peregrine Falcon",
+        "4": "Horsefly"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What dog breed is one fo the oldest breeds of dog and has flourished since 400 BCE.",
+      "options": {
+        "1": "Pugs",
+        "2": "Bulldogs",
+        "3": "Boxers",
+        "4": "Chihuahua"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Which of these species is not extinct?",
+      "options": {
+        "1": "Japanese sea lion",
+        "2": "Komodo dragon",
+        "3": "Tasmanian tiger",
+        "4": "Saudi gazelle"
+      },
+      "correct": 2
+    },
+    {
+      "question": "For what reason would a spotted hyena 'laugh'?",
+      "options": {
+        "1": "Excitement",
+        "2": "Aggression",
+        "3": "Nervousness",
+        "4": "Exhaustion"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What is the scientific name of the Common Chimpanzee?",
+      "options": {
+        "1": "Gorilla gorilla",
+        "2": "Pan paniscus",
+        "3": "Panthera leo",
+        "4": "Pan troglodytes"
+      },
+      "correct": 4
+    },
+    {
+      "question": "What are rhino's horn made of?",
+      "options": {
+        "1": "Bone",
+        "2": "Keratin",
+        "3": "Ivory",
+        "4": "Skin"
+      },
+      "correct": 2
+    },
+    {
+      "question": "What is the collective noun for bears?",
+      "options": {
+        "1": "Drove",
+        "2": "Tribe",
+        "3": "Sloth",
+        "4": "Husk"
+      },
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is NOT a venomous snake?",
+      "options": {
+        "1": "Malayan Krait",
+        "2": "Yellow bellied sea snake",
+        "3": "Black mamba",
+        "4": "Reticulated python"
+      },
+      "correct": 4
+    }
+  ]
+}

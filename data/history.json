@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "The battle of the Somme in World War I took place in which country?",
+      "options": {
+        "1": "Germany",
+        "2": "Italy",
+        "3": "France",
+        "4": "Austria"
+      },
+      "correct": 3
+    },
+    {
+      "question": "In addition to his career as an astrologer and 'prophet'; Nostradamus published a 1555 treatise that included a section on what?",
+      "options": {
+        "1": "Making jams and jellies",
+        "2": "Teaching parrots to talk",
+        "3": "Cheating at card games",
+        "4": "Digging graves"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Who was the leader of the Communist Party of Yugoslavia?",
+      "options": {
+        "1": "Karadjordje Petrovic",
+        "2": "Josip Broz Tito",
+        "3": "Milos Obilic",
+        "4": "Aleskandar Petrovic"
+      },
+      "correct": 2
+    },
+    {
+      "question": "What was the name of the chemical that was used on the Vietnam war?",
+      "options": {
+        "1": "Phosgene",
+        "2": "Mustard Gas",
+        "3": "Hydrogen Cyanide",
+        "4": "Agent Orange"
+      },
+      "correct": 4
+    },
+    {
+      "question": "Which Greek god was the god of the Sun?",
+      "options": {
+        "1": "Zeus",
+        "2": "Hades",
+        "3": "Helios",
+        "4": "Hermes"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What is the name given to the series of confrontations between the UK and Iceland over North Atlantic fishing rights?",
+      "options": {
+        "1": "The Cod Wars",
+        "2": "The Lobster Wars",
+        "3": "The Halibut Wars",
+        "4": "The Mackerel Wars"
+      },
+      "correct": 1
+    },
+    {
+      "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+      "options": {
+        "1": "Carpathia",
+        "2": "Californian",
+        "3": "Cristol",
+        "4": "Commerce"
+      },
+      "correct": 2
+    },
+    {
+      "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+      "options": {
+        "1": "India",
+        "2": "Australia",
+        "3": "Ireland",
+        "4": "Hong Kong"
+      },
+      "correct": 4
+    },
+    {
+      "question": "The pantheon in Rome was used to worship what god?",
+      "options": {
+        "1": "Both Athena and Zeus",
+        "2": "Zeus",
+        "3": "Any god they wanted",
+        "4": "Athena"
+      },
+      "correct": 3
+    },
+    {
+      "question": "In which year was Constantinople conquered by the Turks?",
+      "options": {
+        "1": "1435",
+        "2": "1453",
+        "3": "1454",
+        "4": "1440"
+      },
+      "correct": 2
+    },
+    {
+      "question": "When did the Malvinas War between Argentina and England start?",
+      "options": {
+        "1": "1992",
+        "2": "1981",
+        "3": "1980",
+        "4": "1982"
+      },
+      "correct": 4
+    }
+  ]
+}

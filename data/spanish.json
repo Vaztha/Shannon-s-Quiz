@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "In Argentina, how do we usually greet each other?",
+      "options": {
+        "1": "Handshake",
+        "2": "Kiss on the left cheek",
+        "3": "Kiss on the right cheek",
+        "4": "Waving"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What does the word 'chamba' means?",
+      "options": {
+        "1": "A loud party",
+        "2": "A prank or joke",
+        "3": "A job or occupation",
+        "4": "An energetic drink"
+      },
+      "correct": 3
+    },
+    {
+      "question": "Which country has the best accent?",
+      "options": {
+        "1": "Argentina",
+        "2": "Spain",
+        "3": "Mexico",
+        "4": "Colombia"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Many Spanish-speaking countries use 'seseo.' What does this phonetic phenomenon consist of?",
+      "options": {
+        "1": "Pronouncing the sound of the letter 'z' and 'c' the same as the sound of 's'",
+        "2": "Omitting the 's' at the end of words",
+        "3": "Pronouncing the 'd' at the end of a word like a 'z'",
+        "4": "Pronouncing the sound of 'll' and 'y' like a 'j' or 'sh'"
+      },
+      "correct": 1
+    },
+    {
+      "question": "In Spain, the verb 'coger' means 'to take' or 'to grab' (e.g., coger el autobús - to take the bus). Why should you NEVER say this in several Latin American countries?",
+      "options": {
+        "1": "Because it only refers to catching animals",
+        "2": "Because it means collecting trash or waste",
+        "3": "Because it is an archaic word that has fallen out of use",
+        "4": "Because it is a vulgar word used to refer to sexual intercourse"
+      },
+      "correct": 4
+    },
+    {
+      "question": "Which one of these words is NOT used as an insult?",
+      "options": {
+        "1": "Banana 🍌",
+        "2": "Manzana 🍎",
+        "3": "Salame (salami)",
+        "4": "Zapallo 🎃"
+      },
+      "correct": 2
+    },
+    {
+      "question": "In spanish, is there a difference between 'pasta' and 'noodles'?",
+      "options": {
+        "1": "No",
+        "2": "No",
+        "3": "No",
+        "4": "No"
+      },
+      "correct": -1
+    },
+    {
+      "question": "In Argentina, what does it mean when someone is called 'macanudo'?",
+      "options": {
+        "1": "That they're very nice or a good person",
+        "2": "That they're very loud",
+        "3": "That they're very stingy",
+        "4": "That they're very smart"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Which Spanish-speaking country is (lovingly) teased for having the most confusing or 'what did they just say?' accent'?",
+      "options": {
+        "1": "Spain - Because of the dramatic 'th' sounds",
+        "2": "Chile - Because they change letters to 'i'",
+        "3": "Argentina - Because of the voseo and seseo",
+        "4": "Cuba - Because they speak like they are doing a double tempo"
+      },
+      "correct": 2
+    },
+    {
+      "question": "Which country's accent is often described as 'neutral' and is commonly used in dubbing for Latin American shows?",
+      "options": {
+        "1": "Colombia",
+        "2": "Peru",
+        "3": "Mexico",
+        "4": "Ecuador"
+      },
+      "correct": 3
+    },
+    {
+      "question": "Which ant species has invaded nearly every continent and is considered one of the most widespread invasive insects on Earth?",
+      "options": {
+        "1": "Leafcutter ant - famous for farming fungus (🇧🇷)",
+        "2": "Bullet ant - known for its painful sting (🇵🇪)",
+        "3": "Army ant - marches like a tiny tank battalion (🇨🇷)",
+        "4": "Argentine ant - tiny but unstoppable (🇦🇷)"
+      },
+      "correct": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History Quiz</title>
+    <link rel="stylesheet" href="styles/quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="quiz-container">
+        <a href="index.html">⬅</a>
+        <h1>History Quiz ⚔</h1>
+
+        <div id="question-container" class="hidden">
+            <div id="timer">⏱ 30s</div>
+            <h2 id="question-text"></h2>
+            <div id="options"></div>
+            <button id="next-btn" class="hidden">Next</button>
+        </div>
+
+        <div id="result-container" class="hidden">
+            <h2>Quiz finished!</h2>
+            <p id="score-text"></p>
+            <button onclick="location.reload()">Play Again</button>
+        </div>
+
+        <button id="start-btn">Start Quiz</button>
+    </div>
+
+    <script src="scripts/quiz.js"></script>
+    <script>
+        // Carga del quiz para esta categoría
+        initQuiz('data/history.json');
+    </script>
+</body>
+
+</html>

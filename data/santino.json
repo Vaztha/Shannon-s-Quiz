@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "How many pets do I currently have?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "0"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What's my favourite colour?",
+      "options": {
+        "1": "Green",
+        "2": "Red",
+        "3": "Orange",
+        "4": "Purple"
+      },
+      "correct": 1
+    },
+    {
+      "question": "When's my birthday 😞",
+      "options": {
+        "1": "May 20th",
+        "2": "May 21st",
+        "3": "May 14th",
+        "4": "May 30th"
+      },
+      "correct": 2
+    },
+    {
+      "question": "Including this one, how many gifts have I given you?",
+      "options": {
+        "1": "5",
+        "2": "2",
+        "3": "3",
+        "4": "6"
+      },
+      "correct": 4
+    },
+    {
+      "question": "What's my favourite meal?",
+      "options": {
+        "1": "Sopa de puchero",
+        "2": "Milanesa napolitana",
+        "3": "Fideos",
+        "4": "Puchero"
+      },
+      "correct": 1
+    },
+    {
+      "question": "How many siblings do I have?",
+      "options": {
+        "1": "5",
+        "2": "2",
+        "3": "4",
+        "4": "3"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What superpower would I choose?",
+      "options": {
+        "1": "To be able to see the future",
+        "2": "To be able to travel into the past",
+        "3": "To be able to fly",
+        "4": "Super strength"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Which song was played on your previous birthday gift?",
+      "options": {
+        "1": "Amiga mía",
+        "2": "Perfecta",
+        "3": "Mi persona favorita",
+        "4": "Tú"
+      },
+      "correct": 3
+    },
+    {
+      "question": "What's my favourite season?",
+      "options": {
+        "1": "Spring",
+        "2": "Summer",
+        "3": "Fall",
+        "4": "Winter"
+      },
+      "correct": 4
+    },
+    {
+      "question": "How many languages do I speak?",
+      "options": {
+        "1": "3",
+        "2": "2",
+        "3": "4",
+        "4": "1"
+      },
+      "correct": 1
+    },
+    {
+      "question": "Are you enjoying this gift?",
+      "options": {
+        "1": "Yes!",
+        "2": "NO",
+        "3": "Not sure..",
+        "4": "Meh"
+      },
+      "correct": -1
+    }
+  ]
+}
